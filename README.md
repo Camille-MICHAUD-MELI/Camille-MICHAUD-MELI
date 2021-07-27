@@ -1,5 +1,5 @@
 - Hi, I’m @Camille-MICHAUD-MELI
-- I’m interested in video game, music, and drawing
+- I’m interested in web desing, web dev, video game, music, and drawing
 - I’m currently learning : C, C++
 - How to reach me : 
     - camillemichaudmeli@gmail.com
